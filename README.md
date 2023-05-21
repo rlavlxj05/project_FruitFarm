@@ -2,7 +2,7 @@
 
 ##제작을 설명하는 블로그입니다.
 
-blog.naver.com/rlavlxj05/223035029143 
+https://blog.naver.com/rlavlxj05/223035029143
 
 ##다운로드 링크입니다
 
