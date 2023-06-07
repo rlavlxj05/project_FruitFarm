@@ -4,6 +4,10 @@
 
 ### https://blog.naver.com/rlavlxj05/223035029143
 
+### 영상입니다.
+
+### https://youtu.be/VJ8M9zLrCeE
+
 ### 다운로드 링크입니다
 
 ### https://play.google.com/store/apps/details?id=com.rlavlxj.wnghks00&hl=ko
