@@ -1,18 +1,14 @@
-# 유니티 비주얼스크립팅과 C#을 활용해 제작한프로젝트입니다.
+# 2D 모바일 방치형 클리커게임입니다.
 
-### 제작을 설명하는 블로그입니다.
+해당 프로젝트 경우 출시를 목적으로 유니티에서 지원하는 비주얼스크립팅과 C#을 활용하여 UI 및 모든 시스템을 구축했습니다. 
 
-### https://blog.naver.com/rlavlxj05/223035029143
+### 프로젝트 소개
 
-### 영상입니다.
+유닛을 생성하여 클릭 및 방치 시 재화획득을 하며 유닛 판매시 특수 재화를 얻으며 유닛 해금이 목적인 게임입니다.
 
-### https://youtu.be/VJ8M9zLrCeE
+영상: https://youtu.be/VJ8M9zLrCeE
 
-### 다운로드 링크입니다
-
-### https://play.google.com/store/apps/details?id=com.rlavlxj.wnghks00&hl=ko
-
-
+플레이스토어 : https://play.google.com/store/apps/details?id=com.rlavlxj.wnghks00&hl=ko
 
 [게임매니저]
 
@@ -25,3 +21,13 @@ https://github.com/rlavlxj05/project_FruitFarm/blob/main/2D/GameManager.cs
 https://github.com/rlavlxj05/project_FruitFarm/blob/main/2D/AdmobManager.cs
 
 구글애드몹을 활용하여 광고를 연결했습니다. 당시 보상형 광고를 삽입하려 했으나 애드몹자체에서 오류가 있었습니다. 그래서 전면광고를 활용해 클릭 시 특수재화 획득과 동시에 전면광고가 실행되게 구성을 했습니다.
+
+### 배운점
+
+1. 프로젝트를 제작하는데 있어 목적이 중요하다는 것을 알게되었다.
+
+2. 구글에드몹을 통하여 광고연결을 함으로써 앞으로 앞으로 출시 후 BM관련 시스템을 제작할 수 있게되었다.
+
+### 앞으로 발전 가능성
+
+게임 특성상 재화가 많이 쌓이기 떄문에 출시 이후 지속적인 재화소모처 컨텐츠 추가를 목적으로 하며 유지보수를 할 것 같습니다.
