@@ -8,7 +8,7 @@
 
 영상: https://youtu.be/VJ8M9zLrCeE
 
-플레이스토어 : https://play.google.com/store/apps/details?id=com.rlavlxj.wnghks00&hl=ko
+다운로드 : https://play.google.com/store/apps/details?id=com.rlavlxj.wnghks00&hl=ko
 
 ### 코드설명
 
